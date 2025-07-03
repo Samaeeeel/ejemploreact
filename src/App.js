@@ -1,7 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
 import { useEffect, useState} from 'react';
-import axios from 'axios';
 
 //const API_URL='https://backendpeteats.runasp.net/api/productos';
 
